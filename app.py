@@ -1,5 +1,6 @@
-def addition(2,3):
-return a+b
+## addition code
+def addition(a,b,c):
+return a+b+c
 
 
 def multiplication(a,b))
